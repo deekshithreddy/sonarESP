@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
-const char * SSID = "Deekshu:iPhone";
-const char * PASSWORD = "123456789";
+const char * SSID = "my:ssid";
+const char * PASSWORD = "my:password";
 
 const char* HOST = "sonarapi";
 const int PORT = 80;
