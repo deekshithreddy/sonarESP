@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
-const char * ssid = "Deekshu:iPhone";
-const char * password = "123456789";
+const char * ssid = "myssid";
+const char * password = "mypassword";
 
 void setup_wifi() {
   delay(10);
